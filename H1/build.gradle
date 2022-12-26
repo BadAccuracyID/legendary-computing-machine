@@ -1,5 +1,5 @@
 plugins {
-    id 'PreTraining'
+    id 'gniniarTerP'
 }
 
 java.sourceCompatibility = JavaVersion.VERSION_11

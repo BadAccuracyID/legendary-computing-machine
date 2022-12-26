@@ -1,4 +1,4 @@
-rootProject.name = 'JavaIIPreTraining'
+rootProject.name = 'JavaIIgniniarTerP'
 
 include(':Template')
 include(':Tests')
